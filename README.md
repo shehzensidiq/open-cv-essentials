@@ -1,5 +1,7 @@
 
+## GitAds Sponsored
+[![Sponsored by GitAds](https://staging.gitads.dev/v1/ad-serve?source=shehzensidiq/open-cv-essentials@github)](https://staging.gitads.dev/v1/ad-track?source=shehzensidiq/open-cv-essentials@github)
 
-<!-- GitAds-Verify: SICYMMTU93LB43DCZOOG3UL2O3CYO5JO -->
+
 
 This is my testing repository
